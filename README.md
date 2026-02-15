@@ -17,4 +17,4 @@ Este repositorio contiene mis primeros ejercicios de programación en Python mie
 - Otros lenguajes de programación.
 
 ---
-*Última actualización: Febrero 2026*
+*Última actualización: 14 de Febrero 2026*
