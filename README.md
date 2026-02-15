@@ -8,11 +8,13 @@ Este repositorio contiene mis primeros ejercicios de programación en Python mie
 - Dominar la lógica de programación
 - Construir proyectos reales
 - Prepararme para trabajar en el mercado internacional
+- Usarlo para mis proyectos personales y estilo de vida
 
 ## Tecnologías que estoy aprendiendo
 - Python
 - Git y GitHub
 - AWS (próximamente)
+- Otros lenguajes de programación.
 
 ---
 *Última actualización: Febrero 2026*
