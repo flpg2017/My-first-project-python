@@ -2,7 +2,7 @@
 # Goal: Calculate monthly savings
 print("Welcome to your financial calculator")
 
-# Use float to allow decimal values(int for whole numbers) and you use input when the computer listen to you 
+# Use float (allow decimal values) and (int for whole numbers) and you use input when the computer listen to you 
 Income = float(input("Enter your monthly income (Soles): "))
 Expenses = float(input("Enter your monthly expenses (Soles): "))
 
@@ -17,3 +17,5 @@ elif Savings == 0:
     print("You are breaking even. Consider finding ways to save more.")
 else: 
     print("You are spending more than you earn. Consider reducing your expenses.")
+    
+# Prueba de contribución - 16 de febrero de 2026
