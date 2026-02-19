@@ -1,2 +1,5 @@
 Día 1 de Python
-#I want to learn Phyton
+#I want to learn python
+"alguien sabe el tema de variables?
+"mejores lenguajes de programacion"
+#readme
