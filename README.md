@@ -3,3 +3,5 @@ Día 1 de Python
 "alguien sabe el tema de variables?
 "mejores lenguajes de programacion"
 #readme
+hu
+#readme
