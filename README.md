@@ -5,3 +5,5 @@ Día 1 de Python
 #readme
 hu
 #readme
+print("hi im 17 years old")
+#readme
