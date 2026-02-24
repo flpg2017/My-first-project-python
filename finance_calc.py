@@ -19,3 +19,8 @@ else:
     print("You are spending more than you earn. Consider reducing your expenses.")
     
 # Prueba de contribución - 16 de febrero de 2026
+# Update: Testing my first green square!
+# This is a simple financial calculator that helps users determine their monthly savings based on their income and expenses. It provides feedback on their financial situation, encouraging them to save more if they are breaking even or spending more than they earn.
+    print("This is a test of the contribution feature. I am adding a green square to indicate that this code has been updated.")
+
+ 
