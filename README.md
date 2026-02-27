@@ -1,3 +1,3 @@
 Día 1 de Python
 #readme
-#c++ or python?
+#Tipos de datos and variables
